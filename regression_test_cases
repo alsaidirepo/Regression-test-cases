@@ -1,0 +1,60 @@
+Regression Test Cases
+
+TC_1: Headers links should be working correctly
+steps: 1. navigate to https://""
+2. click on different links of 
+3. verify page is changing to new link 
+
+TC_2: Company logo image link should be working properly
+1. navigate to https://""
+2. click on "cart" link 
+3. click on company logo link 
+4. verfiy button is working properly 
+
+TC_3: "Home" link should take the user to homepage when clicked
+1. navigate to https://""
+2. click on "cart" link 
+3. click on "home" link 
+4. verfiy button is working properly
+TC_4: Contact link should open a popup window
+1. navigate to https://""
+2. click on "Contact" link 
+3. verfiy button is working properly
+4. verify a popup window should appear with contact fields
+
+TC_5: About Us link should open a popup window with a video
+1. navigate to https://""
+2. click on "About Us" link 
+3. verfiy button is working properly
+4. verify a popup window should appear with about us fields 
+TC_6: Cart link should open a separate cart page
+1. navigate to https://""
+2. click on "Cart" link 
+3. verfiy button is working properly
+4. verify a separate page is opened 
+TC_7: Log in button should open a popup window to log into the system
+1. navigate to https://""
+2. click on "Log in" button 
+3. verfiy button is working properly
+4. verify a popup window should appear with log in fields
+5. click on "log in" button 
+
+TC_8: Sign up button should open a popup window to sign up 
+1. navigate to https://""
+2. click on "Sign up" button 
+3. verfiy button is working properly
+4. verify a popup window should appear with sign up fields
+5. click on "sign up" button 
+
+TC_9: Carousel images should be changed automatically every 3 second
+1. navigate to https://""
+2. click on "home" button 
+3. verfiy button is working properly
+4. veify carousel is displaying properly 
+
+
+TC_10: Left and right arrow buttons should change the carousel images accordingly
+1. navigate to https://""
+2. click on left and right arrow button 
+3. verfiy buttons is working properly
+4. veify carousel is displaying properly
